@@ -1,3 +1,1 @@
-first commit
-# leancloud
-test leancloud repo
+Cloud code project for jogger. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
