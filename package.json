@@ -1,0 +1,23 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "Cloud code project for jogger. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express-xml-parser": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytqiu/leancloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytqiu/leancloud/issues"
+  },
+  "homepage": "https://github.com/ytqiu/leancloud#readme"
+}
